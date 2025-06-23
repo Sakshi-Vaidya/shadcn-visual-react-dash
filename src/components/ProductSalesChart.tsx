@@ -1,6 +1,6 @@
-
 import { Card } from "@/components/ui/card";
 import { BarChart, Bar, XAxis, YAxis, ResponsiveContainer, Legend } from "recharts";
+import { ArrowUp } from "lucide-react";
 
 const ProductSalesChart = () => {
   const data = [
